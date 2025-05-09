@@ -1,0 +1,1001 @@
+id_cliente;age;gender;income;kids;subscribe;nps_question;atendimento;ambiente;qualidade;comentario;km.group
+1;59;masculino;103191;4;sim;10;4;4;4;Preço muito alto;cl4
+2;57;feminino;105641;5;nao;10;4;4;4;Higiene precária;cl4
+3;59;masculino;89889;5;nao;10;4;4;4;Ambiente barulhento;cl4
+4;59;masculino;76019;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+5;61;masculino;107910;5;nao;10;4;4;4;Ambiente barulhento;cl4
+6;59;masculino;93670;4;nao;10;4;4;4;Ambiente barulhento;cl4
+7;61;feminino;104196;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+8;56;masculino;91417;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+9;61;feminino;112906;5;nao;10;4;4;4;Preço muito alto;cl4
+10;61;masculino;93258;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+11;64;masculino;102748;4;sim;10;4;4;4;Lugar não acolhedor;cl4
+12;57;feminino;90136;4;nao;10;4;4;4;Preço muito alto;cl4
+13;58;masculino;89463;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+14;62;masculino;106133;5;nao;10;4;4;4;Preço muito alto;cl4
+15;55;masculino;118650;5;sim;10;4;4;4;Preço muito alto;cl4
+16;60;feminino;105749;5;nao;10;4;4;4;Ambiente barulhento;cl4
+17;61;masculino;95456;4;nao;10;4;4;4;Higiene precária;cl4
+18;61;masculino;119842;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+19;56;masculino;97641;5;nao;10;4;4;4;Preço muito alto;cl4
+20;58;masculino;94184;4;sim;10;4;4;4;Higiene precária;cl4
+21;62;masculino;98590;5;nao;10;4;4;4;Ambiente barulhento;cl4
+22;62;feminino;82698;5;nao;10;4;4;4;Lugar não acolhedor;cl4
+23;56;feminino;93644;5;sim;10;4;4;4;Lugar não acolhedor;cl4
+24;62;masculino;80102;4;nao;10;4;4;4;Preço muito alto;cl4
+25;62;masculino;96882;4;sim;10;4;4;4;Lugar não acolhedor;cl4
+26;62;masculino;92496;5;nao;10;4;4;4;Preço muito alto;cl4
+27;60;feminino;100789;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+28;59;feminino;82494;5;sim;10;4;4;4;Ambiente barulhento;cl4
+29;60;masculino;98297;4;nao;10;4;4;4;Higiene precária;cl4
+30;61;feminino;92687;5;nao;10;4;4;4;Ambiente barulhento;cl4
+31;60;masculino;108516;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+32;60;masculino;91131;4;sim;10;4;4;4;Lugar não acolhedor;cl4
+33;60;masculino;99908;4;nao;10;4;4;4;Ambiente barulhento;cl4
+34;58;masculino;85622;4;sim;10;4;4;4;Preço muito alto;cl4
+35;58;masculino;102856;4;sim;10;4;4;4;Lugar não acolhedor;cl4
+36;57;masculino;89937;5;nao;10;4;4;4;Higiene precária;cl4
+37;59;masculino;106518;5;sim;10;4;4;4;Lugar não acolhedor;cl4
+38;63;masculino;112465;5;nao;10;4;4;4;Higiene precária;cl4
+39;58;masculino;107574;5;nao;10;4;4;4;Ambiente barulhento;cl4
+40;61;masculino;95995;4;nao;10;4;4;4;Preço muito alto;cl4
+41;57;masculino;100291;4;sim;10;4;4;4;Atendimento desorganizado;cl4
+42;62;masculino;109476;5;nao;10;4;4;4;Ambiente barulhento;cl4
+43;60;masculino;107908;4;sim;10;4;4;4;Lugar não acolhedor;cl4
+44;60;masculino;112475;4;nao;10;4;4;4;Preço muito alto;cl4
+45;57;masculino;89540;5;nao;10;4;4;4;Preço muito alto;cl4
+46;63;masculino;101498;5;nao;10;4;4;4;Lugar não acolhedor;cl4
+47;56;masculino;107902;4;nao;10;4;4;4;Ambiente barulhento;cl4
+48;62;feminino;105260;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+49;63;feminino;104116;4;nao;10;4;4;4;Higiene precária;cl4
+50;62;masculino;113855;5;nao;10;4;4;4;Preço muito alto;cl4
+51;58;masculino;85676;5;nao;10;4;4;4;Ambiente barulhento;cl4
+52;59;masculino;119734;5;nao;10;4;4;4;Higiene precária;cl4
+53;59;feminino;85850;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+54;61;feminino;98156;5;nao;10;4;4;4;Higiene precária;cl4
+55;58;masculino;103195;5;nao;10;4;4;4;Higiene precária;cl4
+56;58;masculino;110012;4;nao;10;4;4;4;Ambiente barulhento;cl4
+57;58;masculino;87680;5;nao;10;4;4;4;Lugar não acolhedor;cl4
+58;59;masculino;69370;5;nao;10;4;4;4;Higiene precária;cl4
+59;57;masculino;100122;5;sim;10;4;4;4;Ambiente barulhento;cl4
+60;56;masculino;112305;4;sim;10;4;4;4;Ambiente barulhento;cl4
+61;58;masculino;91464;5;sim;10;4;4;4;Lugar não acolhedor;cl4
+62;59;masculino;88134;4;nao;10;4;4;4;Higiene precária;cl4
+63;59;masculino;112228;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+64;57;masculino;98987;5;nao;10;4;4;4;Preço muito alto;cl4
+65;57;masculino;97861;5;nao;10;4;4;4;Higiene precária;cl4
+66;60;masculino;93118;4;nao;10;4;4;4;Higiene precária;cl4
+67;62;masculino;95653;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+68;60;masculino;96796;5;nao;10;4;4;4;Preço muito alto;cl4
+69;60;masculino;95400;5;sim;10;4;4;4;Atendimento desorganizado;cl4
+70;61;masculino;90447;5;nao;10;4;4;4;Preço muito alto;cl4
+71;61;masculino;75900;4;nao;10;4;4;4;Ambiente barulhento;cl4
+72;61;masculino;106382;5;sim;10;4;4;4;Atendimento desorganizado;cl4
+73;59;masculino;111489;4;nao;10;4;4;4;Higiene precária;cl4
+74;61;masculino;90840;5;nao;10;4;4;4;Preço muito alto;cl4
+75;60;masculino;87852;5;nao;10;4;4;4;Preço muito alto;cl4
+76;60;masculino;92573;5;sim;10;4;4;4;Higiene precária;cl4
+77;59;feminino;94680;4;nao;10;4;4;4;Higiene precária;cl4
+78;58;masculino;112287;4;sim;10;4;4;4;Preço muito alto;cl4
+79;60;masculino;103082;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+80;60;masculino;84530;4;sim;10;4;4;4;Ambiente barulhento;cl4
+81;62;masculino;101473;5;sim;10;4;4;4;Lugar não acolhedor;cl4
+82;59;feminino;79898;4;sim;10;4;4;4;Atendimento desorganizado;cl4
+83;59;masculino;83292;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+84;61;masculino;119299;4;sim;10;4;4;4;Higiene precária;cl4
+85;59;masculino;116685;5;sim;10;4;4;4;Lugar não acolhedor;cl4
+86;61;masculino;104084;5;nao;10;4;4;4;Preço muito alto;cl4
+87;58;masculino;97044;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+88;59;masculino;113243;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+89;62;masculino;107439;5;nao;10;4;4;4;Preço muito alto;cl4
+90;56;masculino;99281;4;nao;10;4;4;4;Higiene precária;cl4
+91;61;masculino;96023;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+92;63;masculino;91304;5;nao;10;4;4;4;Higiene precária;cl4
+93;60;feminino;107103;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+94;61;feminino;100981;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+95;62;masculino;95837;4;sim;10;4;4;4;Atendimento desorganizado;cl4
+96;57;feminino;89384;4;nao;10;4;4;4;Preço muito alto;cl4
+97;60;masculino;111158;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+98;55;masculino;88820;4;sim;10;4;4;4;Lugar não acolhedor;cl4
+99;62;masculino;84312;5;nao;10;4;4;4;Higiene precária;cl4
+100;58;masculino;89281;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+101;59;masculino;90571;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+102;62;masculino;105732;4;nao;10;4;4;4;Preço muito alto;cl4
+103;63;masculino;87973;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+104;61;masculino;108811;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+105;63;masculino;95441;5;nao;10;4;4;4;Ambiente barulhento;cl4
+106;61;masculino;108923;4;nao;10;4;4;4;Ambiente barulhento;cl4
+107;59;masculino;92337;5;nao;10;4;4;4;Preço muito alto;cl4
+108;62;masculino;83983;4;nao;10;4;4;4;Preço muito alto;cl4
+109;62;masculino;108066;5;nao;10;4;4;4;Atendimento desorganizado;cl4
+110;63;masculino;84043;4;nao;10;4;4;4;Ambiente barulhento;cl4
+111;57;feminino;115213;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+112;65;masculino;91956;4;sim;10;4;4;4;Preço muito alto;cl4
+113;54;masculino;99972;4;nao;10;4;4;4;Atendimento desorganizado;cl4
+114;62;masculino;94391;5;nao;10;4;4;4;Higiene precária;cl4
+115;60;masculino;89225;5;nao;10;4;4;4;Preço muito alto;cl4
+116;60;masculino;95719;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+117;58;feminino;99264;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+118;62;masculino;94196;5;sim;10;4;4;4;Atendimento desorganizado;cl4
+119;59;feminino;111613;4;nao;10;4;4;4;Ambiente barulhento;cl4
+120;61;masculino;102523;4;nao;10;4;4;4;Higiene precária;cl4
+121;59;masculino;99887;5;nao;10;4;4;4;Preço muito alto;cl4
+122;62;masculino;77907;5;sim;10;4;4;4;Lugar não acolhedor;cl4
+123;61;masculino;119023;5;sim;10;4;4;4;Preço muito alto;cl4
+124;60;masculino;101949;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+125;58;masculino;103771;4;nao;10;4;4;4;Lugar não acolhedor;cl4
+126;60;masculino;106907;5;nao;10;4;4;4;Ambiente barulhento;cl4
+127;61;masculino;101094;4;nao;10;4;4;4;Preço muito alto;cl4
+128;58;masculino;121541;5;sim;1;1;2;1;Preço muito alto;cl4
+129;63;masculino;80035;5;nao;1;1;1;1;Atendimento desorganizado;cl4
+130;59;masculino;82466;5;sim;1;1;1;1;Preço muito alto;cl4
+131;54;masculino;83397;4;sim;1;2;1;1;Ambiente barulhento;cl4
+132;58;feminino;111140;4;nao;1;1;2;2;Preço muito alto;cl4
+133;61;masculino;100908;4;nao;2;1;1;1;Atendimento desorganizado;cl4
+134;62;feminino;86981;5;sim;1;1;1;1;Ambiente barulhento;cl4
+135;61;masculino;101327;5;nao;1;1;2;2;Higiene precária;cl4
+136;64;masculino;95936;5;sim;2;2;2;1;Ambiente barulhento;cl4
+137;56;masculino;104324;4;nao;2;2;1;1;Ambiente barulhento;cl4
+138;58;masculino;103232;4;nao;1;1;1;1;Higiene precária;cl4
+139;59;masculino;95100;5;nao;2;1;1;1;Preço muito alto;cl4
+140;60;feminino;99003;5;nao;1;1;1;1;Atendimento desorganizado;cl4
+141;62;masculino;110368;4;nao;1;1;1;1;Atendimento desorganizado;cl4
+142;56;feminino;98562;4;nao;1;1;1;1;Preço muito alto;cl4
+143;58;feminino;89565;4;nao;1;2;1;2;Higiene precária;cl4
+144;64;masculino;100222;4;nao;1;1;2;1;Preço muito alto;cl4
+145;62;masculino;99799;4;nao;1;1;1;2;Ambiente barulhento;cl4
+146;60;masculino;94370;4;nao;1;1;1;1;Atendimento desorganizado;cl4
+147;58;masculino;94792;5;nao;2;1;1;2;Lugar não acolhedor;cl4
+148;58;masculino;113553;4;nao;1;1;2;1;Preço muito alto;cl4
+149;60;masculino;106519;4;nao;1;1;2;1;Preço muito alto;cl4
+150;59;masculino;103946;5;sim;1;1;1;2;Atendimento desorganizado;cl4
+151;62;masculino;112191;4;nao;1;1;1;1;Lugar não acolhedor;cl4
+152;59;masculino;100934;4;nao;1;1;1;2;Higiene precária;cl4
+153;59;feminino;99405;5;sim;2;1;1;1;Lugar não acolhedor;cl4
+154;59;feminino;112902;5;nao;1;2;2;2;Higiene precária;cl4
+155;59;masculino;102345;5;nao;1;1;2;2;Atendimento desorganizado;cl4
+156;61;masculino;95311;4;nao;1;1;2;2;Atendimento desorganizado;cl4
+157;59;masculino;87275;4;sim;1;1;2;2;Higiene precária;cl4
+158;60;masculino;85016;4;nao;1;1;2;1;Preço muito alto;cl4
+159;59;masculino;97305;4;nao;2;2;1;1;Higiene precária;cl4
+160;60;masculino;120325;5;nao;2;1;1;2;Atendimento desorganizado;cl4
+161;58;masculino;97196;5;nao;1;2;2;1;Lugar não acolhedor;cl4
+162;61;masculino;88868;4;nao;1;2;1;1;Preço muito alto;cl4
+163;58;masculino;104316;5;nao;1;1;1;1;Preço muito alto;cl4
+164;60;masculino;94354;5;sim;2;1;1;1;Lugar não acolhedor;cl4
+165;59;masculino;93336;4;nao;1;1;1;1;Ambiente barulhento;cl4
+166;59;feminino;100531;4;sim;1;1;1;1;Higiene precária;cl4
+167;60;masculino;97317;4;nao;2;1;1;1;Preço muito alto;cl4
+168;60;masculino;102061;5;nao;2;1;1;1;Atendimento desorganizado;cl4
+169;58;masculino;98301;4;sim;2;2;1;1;Lugar não acolhedor;cl4
+170;59;feminino;109921;5;sim;2;2;1;1;Preço muito alto;cl4
+171;60;masculino;104817;4;nao;1;1;1;1;Atendimento desorganizado;cl4
+172;58;feminino;103713;4;nao;1;2;2;1;Higiene precária;cl4
+173;57;masculino;85944;4;nao;1;2;1;2;Atendimento desorganizado;cl4
+174;57;masculino;90785;5;nao;2;1;1;1;Higiene precária;cl4
+175;58;feminino;87366;4;nao;2;1;1;1;Ambiente barulhento;cl4
+176;59;masculino;76595;5;nao;1;2;2;1;Preço muito alto;cl4
+177;61;masculino;91572;5;nao;1;1;1;1;Lugar não acolhedor;cl4
+178;62;masculino;102005;5;nao;1;1;1;1;Atendimento desorganizado;cl4
+179;61;masculino;97424;4;sim;2;1;1;2;Preço muito alto;cl4
+180;60;feminino;116422;4;nao;1;1;1;1;Higiene precária;cl4
+181;61;feminino;85831;4;nao;1;1;1;1;Higiene precária;cl4
+182;58;masculino;88976;4;sim;1;1;1;2;Atendimento desorganizado;cl4
+183;61;feminino;96526;4;nao;1;2;1;1;Atendimento desorganizado;cl4
+184;59;feminino;105394;5;nao;1;2;2;2;Ambiente barulhento;cl4
+185;61;feminino;97046;5;nao;1;1;2;2;Higiene precária;cl4
+186;60;feminino;92909;4;nao;1;2;1;1;Ambiente barulhento;cl4
+187;55;masculino;97276;4;sim;1;1;1;1;Ambiente barulhento;cl4
+188;60;masculino;98275;5;sim;1;2;1;1;Lugar não acolhedor;cl4
+189;59;masculino;108697;4;nao;1;2;2;2;Preço muito alto;cl4
+190;58;masculino;108072;4;nao;1;1;1;1;Lugar não acolhedor;cl4
+191;58;masculino;104225;5;nao;1;1;1;1;Atendimento desorganizado;cl4
+192;57;masculino;87516;5;nao;1;1;1;1;Ambiente barulhento;cl4
+193;57;masculino;95453;4;nao;2;1;1;1;Preço muito alto;cl4
+194;63;feminino;93857;4;nao;1;2;2;2;Ambiente barulhento;cl4
+195;59;masculino;101114;5;nao;1;2;1;1;Higiene precária;cl4
+196;56;masculino;106379;4;nao;1;1;1;2;Lugar não acolhedor;cl4
+197;60;masculino;97386;5;nao;1;1;2;1;Ambiente barulhento;cl4
+198;58;feminino;98383;4;nao;1;1;1;1;Preço muito alto;cl4
+199;59;feminino;99343;4;nao;2;1;2;1;Higiene precária;cl4
+200;57;feminino;82206;4;sim;1;2;1;1;Higiene precária;cl4
+201;58;masculino;100473;4;nao;1;1;2;1;Ambiente barulhento;cl4
+202;60;masculino;112062;4;sim;1;1;1;1;Preço muito alto;cl4
+203;60;masculino;101451;4;nao;1;1;2;1;Atendimento desorganizado;cl4
+204;60;masculino;91821;4;nao;2;2;1;1;Ambiente barulhento;cl4
+205;60;masculino;92884;4;nao;1;1;2;1;Ambiente barulhento;cl4
+206;60;masculino;79391;5;nao;1;1;1;1;Atendimento desorganizado;cl4
+207;60;masculino;98370;5;sim;1;1;1;1;Preço muito alto;cl4
+208;62;masculino;118986;5;nao;2;1;1;1;Ambiente barulhento;cl4
+209;59;masculino;94728;5;nao;1;1;1;2;Higiene precária;cl4
+210;60;masculino;84524;4;sim;1;2;1;1;Lugar não acolhedor;cl4
+211;59;masculino;105607;4;nao;1;2;2;1;Preço muito alto;cl4
+212;62;masculino;92179;4;sim;2;2;1;1;Preço muito alto;cl4
+213;61;masculino;117425;5;nao;1;1;2;1;Preço muito alto;cl4
+214;63;masculino;94664;4;nao;1;1;2;2;Preço muito alto;cl4
+215;60;masculino;127914;5;sim;7;1;1;1;Preço muito alto;cl4
+216;58;masculino;119294;4;nao;7;1;1;1;Atendimento desorganizado;cl4
+217;61;feminino;99631;5;nao;7;2;1;2;Higiene precária;cl4
+218;60;feminino;105021;5;nao;7;2;1;2;Lugar não acolhedor;cl4
+219;63;masculino;86504;4;nao;7;1;1;1;Lugar não acolhedor;cl4
+220;59;masculino;93280;4;nao;7;1;1;1;Higiene precária;cl4
+221;59;masculino;109112;5;nao;7;2;2;2;Preço muito alto;cl4
+222;62;masculino;92546;4;nao;7;1;2;2;Ambiente barulhento;cl4
+223;63;feminino;91205;4;nao;7;2;2;1;Ambiente barulhento;cl4
+224;60;masculino;102123;4;nao;7;1;1;1;Higiene precária;cl4
+225;60;masculino;105707;5;nao;7;1;2;1;Higiene precária;cl4
+226;60;masculino;109019;5;nao;7;1;1;1;Ambiente barulhento;cl4
+227;61;feminino;113350;4;sim;7;2;1;2;Preço muito alto;cl4
+228;59;feminino;104361;4;nao;7;2;1;2;Lugar não acolhedor;cl4
+229;58;masculino;90883;5;nao;7;1;1;1;Lugar não acolhedor;cl4
+230;63;masculino;107529;5;nao;7;2;2;1;Ambiente barulhento;cl4
+231;65;masculino;78169;5;nao;7;1;1;1;Preço muito alto;cl4
+232;59;masculino;96186;5;nao;7;1;1;1;Atendimento desorganizado;cl4
+233;60;masculino;108433;4;sim;7;1;2;1;Lugar não acolhedor;cl4
+234;61;masculino;85232;5;nao;7;1;1;1;Lugar não acolhedor;cl4
+235;58;feminino;93014;4;sim;7;2;1;1;Atendimento desorganizado;cl4
+236;59;masculino;98633;5;nao;7;1;1;1;Lugar não acolhedor;cl4
+237;59;masculino;112419;5;nao;7;1;1;1;Ambiente barulhento;cl4
+238;63;masculino;97183;5;sim;7;1;1;1;Lugar não acolhedor;cl4
+239;59;masculino;93676;5;nao;7;2;1;1;Lugar não acolhedor;cl4
+240;60;feminino;88786;4;nao;2;1;2;1;Atendimento desorganizado;cl4
+241;61;masculino;100236;5;nao;1;1;2;1;Atendimento desorganizado;cl4
+242;61;feminino;104955;4;nao;1;1;2;2;Higiene precária;cl4
+243;60;feminino;97711;5;nao;1;1;1;1;Ambiente barulhento;cl4
+244;59;masculino;109058;5;nao;2;1;1;1;Lugar não acolhedor;cl4
+245;60;feminino;101257;5;sim;1;1;1;2;Lugar não acolhedor;cl4
+246;61;masculino;89845;4;nao;1;2;1;1;Higiene precária;cl4
+247;58;feminino;105982;4;nao;1;1;1;1;Atendimento desorganizado;cl4
+248;61;feminino;112952;5;nao;2;1;1;1;Preço muito alto;cl4
+249;60;masculino;110108;4;nao;2;1;1;1;Preço muito alto;cl4
+250;62;feminino;100971;4;nao;1;1;1;1;Atendimento desorganizado;cl4
+251;43;masculino;61584;2;nao;10;5;5;4;Playground não é bom;cl3
+252;44;feminino;61400;3;sim;10;5;5;4;Comida fria e pouco saborosa;cl3
+253;47;masculino;75159;2;nao;10;5;5;4;Poucas opções de comida;cl3
+254;43;feminino;63247;3;nao;10;5;5;4;Poucas opções de comida;cl3
+255;47;feminino;64131;3;nao;10;5;5;4;Comida fria e pouco saborosa;cl3
+256;48;feminino;62894;2;nao;10;5;5;4;Poucas opções de comida;cl3
+257;46;feminino;57905;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+258;45;feminino;63965;2;sim;10;5;5;4;Qualidade dos produtos fraca;cl3
+259;46;feminino;65173;2;sim;10;5;5;4;Serviço poderia melhorar;cl3
+260;41;feminino;65879;2;nao;10;5;5;4;Poucas opções de comida;cl3
+261;45;feminino;61390;2;nao;10;5;5;4;Playground não é bom;cl3
+262;48;feminino;67131;2;sim;10;5;5;4;Poucas opções de comida;cl3
+263;49;feminino;68950;3;nao;10;5;5;4;Playground não é bom;cl3
+264;49;feminino;61459;3;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+265;45;feminino;64630;3;nao;10;5;5;4;Playground não é bom;cl3
+266;48;feminino;58701;3;nao;10;5;5;4;Playground não é bom;cl3
+267;43;feminino;68274;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+268;46;feminino;62583;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+269;44;masculino;60317;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+270;46;masculino;73924;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+271;46;feminino;68871;3;nao;10;5;5;4;Serviço poderia melhorar;cl3
+272;43;feminino;69831;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+273;40;masculino;65586;3;sim;10;5;5;4;Playground não é bom;cl3
+274;46;feminino;61168;2;sim;10;5;5;4;Qualidade dos produtos fraca;cl3
+275;44;feminino;64481;3;sim;10;5;5;4;Poucas opções de comida;cl3
+276;44;feminino;65456;2;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+277;44;masculino;65889;3;sim;10;5;5;4;Serviço poderia melhorar;cl3
+278;42;feminino;65584;2;sim;10;5;5;4;Poucas opções de comida;cl3
+279;44;feminino;66635;2;nao;10;5;5;4;Serviço poderia melhorar;cl3
+280;48;feminino;71534;3;nao;10;5;5;4;Poucas opções de comida;cl3
+281;48;feminino;58470;2;nao;10;5;5;4;Poucas opções de comida;cl3
+282;49;feminino;68613;2;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+283;43;feminino;63142;2;sim;10;5;5;4;Serviço poderia melhorar;cl3
+284;41;feminino;62103;2;nao;10;5;5;4;Poucas opções de comida;cl3
+285;44;masculino;67910;3;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+286;45;feminino;67324;3;nao;10;5;5;4;Playground não é bom;cl3
+287;46;masculino;67728;2;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+288;45;masculino;68280;3;nao;10;5;5;4;Poucas opções de comida;cl3
+289;43;feminino;70092;2;nao;10;5;5;4;Poucas opções de comida;cl3
+290;46;feminino;64722;2;nao;10;5;5;4;Poucas opções de comida;cl3
+291;40;masculino;65386;2;nao;10;5;5;4;Playground não é bom;cl3
+292;48;feminino;57447;2;sim;10;5;5;4;Playground não é bom;cl3
+293;42;feminino;69501;3;nao;10;5;5;4;Serviço poderia melhorar;cl3
+294;47;feminino;68873;2;nao;10;5;5;4;Playground não é bom;cl3
+295;44;feminino;77643;2;nao;10;5;5;4;Poucas opções de comida;cl3
+296;51;feminino;63306;2;nao;10;5;5;4;Comida fria e pouco saborosa;cl3
+297;43;feminino;66227;3;nao;10;5;3;4;Serviço poderia melhorar;cl3
+298;45;masculino;68695;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+299;44;feminino;67040;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+300;48;masculino;57410;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+301;44;feminino;61698;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+302;42;feminino;69153;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+303;43;feminino;65050;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+304;45;feminino;60069;2;sim;10;5;3;4;Qualidade dos produtos fraca;cl3
+305;46;feminino;71159;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+306;45;feminino;60707;3;nao;10;5;3;4;Playground não é bom;cl3
+307;46;feminino;72032;3;nao;10;5;3;4;Poucas opções de comida;cl3
+308;47;feminino;57240;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+309;43;feminino;59339;3;nao;10;5;3;4;Serviço poderia melhorar;cl3
+310;45;feminino;58321;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+311;46;masculino;61414;2;nao;10;5;3;4;Serviço poderia melhorar;cl3
+312;48;feminino;67385;2;nao;10;5;3;4;Playground não é bom;cl3
+313;43;feminino;69851;2;nao;10;5;3;4;Poucas opções de comida;cl3
+314;46;feminino;71813;2;sim;10;5;3;4;Serviço poderia melhorar;cl3
+315;46;masculino;71790;3;sim;10;5;3;4;Qualidade dos produtos fraca;cl3
+316;47;masculino;60890;3;nao;10;5;3;4;Playground não é bom;cl3
+317;43;feminino;68315;2;sim;10;5;3;4;Comida fria e pouco saborosa;cl3
+318;40;feminino;57050;3;nao;10;5;3;4;Playground não é bom;cl3
+319;44;feminino;70173;2;nao;10;5;3;4;Poucas opções de comida;cl3
+320;43;feminino;73652;3;sim;10;5;3;4;Playground não é bom;cl3
+321;48;feminino;64564;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+322;45;feminino;64741;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+323;45;feminino;64653;3;nao;10;5;3;4;Playground não é bom;cl3
+324;47;feminino;63667;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+325;45;feminino;74961;3;nao;10;5;3;4;Playground não é bom;cl3
+326;47;feminino;61034;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+327;48;masculino;57978;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+328;47;feminino;66148;3;sim;10;5;3;4;Poucas opções de comida;cl3
+329;45;masculino;67023;2;nao;10;5;3;4;Poucas opções de comida;cl3
+330;46;feminino;63561;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+331;42;masculino;77219;2;nao;10;5;3;4;Poucas opções de comida;cl3
+332;45;masculino;59984;3;nao;10;5;3;4;Poucas opções de comida;cl3
+333;46;feminino;67142;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+334;46;feminino;66558;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+335;45;feminino;72187;3;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+336;47;feminino;57966;3;sim;10;5;3;4;Playground não é bom;cl3
+337;42;feminino;56978;3;nao;10;5;3;4;Poucas opções de comida;cl3
+338;45;feminino;59901;2;sim;10;5;3;4;Playground não é bom;cl3
+339;48;masculino;65390;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+340;44;feminino;65230;2;sim;10;5;3;4;Qualidade dos produtos fraca;cl3
+341;42;feminino;68609;2;nao;10;5;3;4;Playground não é bom;cl3
+342;43;feminino;70574;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+343;46;feminino;62344;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+344;45;feminino;69173;3;nao;10;5;3;4;Serviço poderia melhorar;cl3
+345;46;feminino;56057;2;nao;10;5;5;4;Poucas opções de comida;cl3
+346;43;feminino;65218;3;sim;10;5;5;4;Serviço poderia melhorar;cl3
+347;44;feminino;56250;3;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+348;45;feminino;63399;2;sim;10;5;5;4;Playground não é bom;cl3
+349;49;feminino;68548;3;sim;10;5;5;4;Comida fria e pouco saborosa;cl3
+350;43;masculino;60875;2;nao;10;5;5;4;Playground não é bom;cl3
+351;49;feminino;55120;2;nao;10;5;5;4;Comida fria e pouco saborosa;cl3
+352;47;feminino;62462;3;nao;10;5;5;4;Comida fria e pouco saborosa;cl3
+353;42;feminino;63971;3;nao;10;5;5;4;Playground não é bom;cl3
+354;41;feminino;63325;3;nao;10;5;5;4;Qualidade dos produtos fraca;cl3
+355;42;feminino;66650;2;nao;10;5;5;4;Comida fria e pouco saborosa;cl3
+356;44;feminino;65110;2;sim;10;5;5;4;Playground não é bom;cl3
+357;46;feminino;61700;2;sim;10;5;5;4;Playground não é bom;cl3
+358;43;feminino;54277;2;sim;10;5;5;4;Poucas opções de comida;cl3
+359;49;feminino;62100;2;nao;10;5;5;4;Comida fria e pouco saborosa;cl3
+360;46;feminino;70637;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+361;45;masculino;57098;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+362;46;feminino;55217;3;nao;10;5;3;4;Serviço poderia melhorar;cl3
+363;47;feminino;63113;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+364;45;feminino;62446;3;nao;10;5;3;4;Playground não é bom;cl3
+365;44;feminino;63765;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+366;45;feminino;51943;3;nao;10;5;3;4;Poucas opções de comida;cl3
+367;44;masculino;64596;3;nao;10;5;3;4;Serviço poderia melhorar;cl3
+368;50;feminino;70312;2;sim;10;5;3;4;Serviço poderia melhorar;cl3
+369;44;feminino;59896;2;nao;10;5;3;4;Playground não é bom;cl3
+370;45;feminino;70281;2;sim;10;5;3;4;Comida fria e pouco saborosa;cl3
+371;44;feminino;73563;2;nao;10;5;3;4;Serviço poderia melhorar;cl3
+372;46;masculino;68027;3;nao;10;5;3;4;Serviço poderia melhorar;cl3
+373;43;feminino;68016;2;sim;10;5;3;4;Serviço poderia melhorar;cl3
+374;44;masculino;65697;2;nao;10;5;3;4;Poucas opções de comida;cl3
+375;44;feminino;58328;2;nao;10;5;3;4;Qualidade dos produtos fraca;cl3
+376;44;masculino;64305;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+377;47;feminino;62714;3;nao;10;5;3;4;Playground não é bom;cl3
+378;43;feminino;65047;2;sim;10;5;3;4;Playground não é bom;cl3
+379;49;feminino;64007;3;sim;10;5;3;4;Serviço poderia melhorar;cl3
+380;45;feminino;62251;3;nao;10;5;4;4;Comida fria e pouco saborosa;cl3
+381;41;masculino;62463;2;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+382;44;feminino;70576;3;sim;10;5;4;4;Serviço poderia melhorar;cl3
+383;44;feminino;69245;2;nao;10;5;4;4;Comida fria e pouco saborosa;cl3
+384;47;masculino;66388;2;nao;10;5;4;4;Poucas opções de comida;cl3
+385;44;feminino;63093;2;nao;10;5;3;4;Playground não é bom;cl3
+386;43;feminino;65403;2;nao;10;5;4;4;Serviço poderia melhorar;cl3
+387;48;masculino;69442;3;nao;10;5;3;4;Comida fria e pouco saborosa;cl3
+388;42;feminino;61725;2;nao;10;5;4;4;Playground não é bom;cl3
+389;46;feminino;60993;2;nao;10;5;3;4;Poucas opções de comida;cl3
+390;42;feminino;71814;3;nao;10;5;3;4;Poucas opções de comida;cl3
+391;42;feminino;67692;2;nao;10;5;4;4;Comida fria e pouco saborosa;cl3
+392;44;feminino;67024;2;sim;10;5;4;4;Comida fria e pouco saborosa;cl3
+393;45;feminino;62653;2;sim;10;5;3;4;Poucas opções de comida;cl3
+394;45;feminino;53140;2;nao;10;5;4;1;Playground não é bom;cl3
+395;43;feminino;64570;2;nao;10;5;4;2;Poucas opções de comida;cl3
+396;45;feminino;66352;3;nao;5;5;3;1;Serviço poderia melhorar;cl3
+397;42;masculino;58472;3;nao;6;5;4;2;Qualidade dos produtos fraca;cl3
+398;46;feminino;70700;3;nao;5;5;3;1;Playground não é bom;cl3
+399;46;feminino;69069;2;nao;6;5;4;1;Poucas opções de comida;cl3
+400;44;feminino;55543;3;nao;4;5;4;1;Playground não é bom;cl3
+401;45;masculino;60317;3;nao;6;5;3;1;Playground não é bom;cl3
+402;44;feminino;63661;2;nao;4;5;4;1;Comida fria e pouco saborosa;cl3
+403;44;feminino;62964;2;nao;5;5;4;2;Qualidade dos produtos fraca;cl3
+404;47;feminino;65180;2;nao;6;5;3;1;Comida fria e pouco saborosa;cl3
+405;46;feminino;65586;3;nao;4;5;4;2;Playground não é bom;cl3
+406;42;feminino;63369;2;sim;6;5;4;1;Playground não é bom;cl3
+407;45;feminino;61923;2;nao;6;5;4;1;Serviço poderia melhorar;cl3
+408;46;feminino;59138;3;nao;5;3;4;1;Serviço poderia melhorar;cl3
+409;44;feminino;67713;3;sim;4;2;3;2;Qualidade dos produtos fraca;cl3
+410;42;feminino;69412;3;sim;5;3;4;2;Serviço poderia melhorar;cl3
+411;46;feminino;66854;2;nao;6;3;4;1;Qualidade dos produtos fraca;cl3
+412;43;masculino;70970;2;nao;4;2;4;2;Comida fria e pouco saborosa;cl3
+413;46;feminino;65596;2;nao;4;2;4;1;Poucas opções de comida;cl3
+414;44;masculino;68695;2;nao;4;3;3;2;Qualidade dos produtos fraca;cl3
+415;45;feminino;69174;3;sim;4;3;4;2;Comida fria e pouco saborosa;cl3
+416;42;feminino;62820;3;nao;6;3;3;1;Comida fria e pouco saborosa;cl3
+417;44;masculino;64135;3;nao;4;2;3;2;Playground não é bom;cl3
+418;46;feminino;64396;3;sim;5;2;4;1;Qualidade dos produtos fraca;cl3
+419;44;feminino;68593;2;nao;6;3;3;1;Poucas opções de comida;cl3
+420;45;masculino;61057;3;sim;4;2;3;2;Poucas opções de comida;cl3
+421;47;feminino;64240;2;nao;5;2;3;1;Qualidade dos produtos fraca;cl3
+422;50;feminino;61354;2;nao;5;2;4;1;Playground não é bom;cl3
+423;47;feminino;67752;2;nao;5;2;4;1;Poucas opções de comida;cl3
+424;43;feminino;63177;3;sim;4;2;3;1;Playground não é bom;cl3
+425;43;feminino;72814;2;nao;4;3;4;2;Playground não é bom;cl3
+426;44;feminino;63563;2;nao;6;3;3;2;Comida fria e pouco saborosa;cl3
+427;44;masculino;68180;2;sim;5;3;3;1;Serviço poderia melhorar;cl3
+428;44;feminino;64049;3;nao;6;2;3;1;Comida fria e pouco saborosa;cl3
+429;42;feminino;66411;3;nao;6;2;4;1;Qualidade dos produtos fraca;cl3
+430;45;masculino;62852;2;nao;5;3;3;1;Playground não é bom;cl3
+431;47;feminino;58692;2;sim;4;2;4;1;Playground não é bom;cl3
+432;45;feminino;60044;3;sim;4;2;3;1;Poucas opções de comida;cl3
+433;42;feminino;69920;2;nao;4;2;3;2;Comida fria e pouco saborosa;cl3
+434;42;feminino;75884;3;sim;4;2;4;1;Serviço poderia melhorar;cl3
+435;42;feminino;56535;3;nao;6;2;4;1;Serviço poderia melhorar;cl3
+436;43;feminino;63280;2;nao;6;2;3;1;Poucas opções de comida;cl3
+437;45;feminino;62521;3;sim;4;2;4;1;Playground não é bom;cl3
+438;45;feminino;69220;3;nao;7;2;4;1;Comida fria e pouco saborosa;cl3
+439;45;masculino;64030;3;nao;7;3;4;1;Serviço poderia melhorar;cl3
+440;46;feminino;61518;2;nao;7;2;4;2;Qualidade dos produtos fraca;cl3
+441;45;feminino;65737;2;nao;7;2;4;1;Qualidade dos produtos fraca;cl3
+442;44;feminino;60816;3;nao;7;3;4;1;Poucas opções de comida;cl3
+443;43;feminino;64566;3;sim;7;2;3;2;Comida fria e pouco saborosa;cl3
+444;46;masculino;62891;2;nao;7;3;4;2;Serviço poderia melhorar;cl3
+445;47;masculino;64374;2;nao;7;3;4;1;Serviço poderia melhorar;cl3
+446;46;feminino;60131;2;sim;7;2;4;1;Poucas opções de comida;cl3
+447;47;feminino;65781;2;nao;7;3;4;1;Playground não é bom;cl3
+448;47;feminino;67725;3;sim;7;2;4;1;Poucas opções de comida;cl3
+449;45;masculino;63241;3;nao;7;3;4;1;Playground não é bom;cl3
+450;44;masculino;60065;3;sim;7;3;4;2;Qualidade dos produtos fraca;cl3
+451;45;feminino;56324;3;sim;7;2;3;1;Playground não é bom;cl3
+452;46;feminino;57959;3;nao;7;3;3;2;Serviço poderia melhorar;cl3
+453;47;feminino;68995;2;nao;7;3;4;1;Comida fria e pouco saborosa;cl3
+454;46;feminino;64954;3;nao;7;3;4;2;Playground não é bom;cl3
+455;45;feminino;66703;3;nao;7;3;3;1;Comida fria e pouco saborosa;cl3
+456;46;feminino;77674;2;sim;7;3;4;1;Poucas opções de comida;cl3
+457;46;feminino;67692;3;nao;7;2;4;1;Serviço poderia melhorar;cl3
+458;44;feminino;65211;2;nao;7;2;3;1;Playground não é bom;cl3
+459;45;feminino;66024;2;nao;7;3;3;1;Playground não é bom;cl3
+460;49;feminino;63007;2;sim;7;2;4;1;Qualidade dos produtos fraca;cl3
+461;44;feminino;63143;2;nao;7;2;3;1;Comida fria e pouco saborosa;cl3
+462;44;masculino;63534;2;nao;6;3;3;2;Playground não é bom;cl3
+463;44;feminino;64432;2;nao;4;2;3;2;Poucas opções de comida;cl3
+464;43;feminino;72910;3;nao;5;2;4;1;Poucas opções de comida;cl3
+465;47;feminino;69873;2;nao;6;2;3;1;Playground não é bom;cl3
+466;41;masculino;57415;2;nao;5;2;4;1;Serviço poderia melhorar;cl3
+467;44;feminino;66831;2;nao;5;3;3;1;Qualidade dos produtos fraca;cl3
+468;45;masculino;62646;2;sim;6;2;3;1;Serviço poderia melhorar;cl3
+469;42;masculino;51803;2;sim;4;2;3;1;Playground não é bom;cl3
+470;44;masculino;74262;2;nao;5;3;4;1;Serviço poderia melhorar;cl3
+471;48;feminino;53202;2;nao;5;3;4;1;Comida fria e pouco saborosa;cl3
+472;44;masculino;62000;3;sim;6;2;3;2;Playground não é bom;cl3
+473;47;feminino;66969;3;sim;5;2;4;1;Qualidade dos produtos fraca;cl3
+474;42;masculino;63216;3;nao;5;2;4;1;Serviço poderia melhorar;cl3
+475;46;feminino;58707;2;nao;5;2;3;1;Qualidade dos produtos fraca;cl3
+476;44;masculino;72971;3;nao;4;2;4;2;Poucas opções de comida;cl3
+477;50;feminino;69470;2;nao;5;2;3;1;Playground não é bom;cl3
+478;44;feminino;66123;3;nao;4;3;4;2;Poucas opções de comida;cl3
+479;45;masculino;71633;3;nao;5;2;3;2;Serviço poderia melhorar;cl3
+480;46;feminino;64575;3;nao;6;3;4;1;Playground não é bom;cl3
+481;41;masculino;68380;3;nao;6;3;4;1;Comida fria e pouco saborosa;cl3
+482;46;feminino;60137;2;nao;6;3;4;1;Comida fria e pouco saborosa;cl3
+483;44;feminino;63167;3;sim;5;3;4;1;Qualidade dos produtos fraca;cl3
+484;41;feminino;62517;3;nao;6;3;3;1;Qualidade dos produtos fraca;cl3
+485;45;feminino;75338;2;sim;6;3;4;1;Poucas opções de comida;cl3
+486;43;feminino;67069;3;nao;6;2;3;1;Serviço poderia melhorar;cl3
+487;43;feminino;54006;3;nao;4;2;4;2;Playground não é bom;cl3
+488;45;feminino;66652;3;sim;4;3;4;1;Qualidade dos produtos fraca;cl3
+489;47;feminino;65611;2;nao;5;3;3;1;Poucas opções de comida;cl3
+490;44;masculino;65900;3;nao;6;3;3;1;Comida fria e pouco saborosa;cl3
+491;45;feminino;61848;2;nao;6;2;4;1;Qualidade dos produtos fraca;cl3
+492;45;feminino;60713;3;nao;5;2;3;1;Playground não é bom;cl3
+493;42;feminino;65128;2;sim;5;3;3;1;Comida fria e pouco saborosa;cl3
+494;46;feminino;62524;3;nao;4;2;3;1;Qualidade dos produtos fraca;cl3
+495;46;feminino;65872;3;nao;4;3;4;1;Comida fria e pouco saborosa;cl3
+496;49;feminino;60732;3;nao;4;3;3;1;Playground não é bom;cl3
+497;44;feminino;69336;3;nao;6;3;3;2;Qualidade dos produtos fraca;cl3
+498;46;feminino;68862;2;nao;4;2;4;1;Serviço poderia melhorar;cl3
+499;46;feminino;63813;3;nao;5;2;3;2;Poucas opções de comida;cl3
+500;44;masculino;69847;3;nao;5;3;4;1;Playground não é bom;cl3
+501;42;masculino;39013;2;nao;7;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+502;41;masculino;47882;2;sim;7;4;5;4;Fidelidade não vale a pena;cl2
+503;36;masculino;50054;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+504;40;masculino;52748;2;nao;7;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+505;38;masculino;55925;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+506;37;masculino;38916;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+507;38;masculino;52810;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+508;40;masculino;49981;2;nao;7;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+509;42;masculino;47610;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+510;39;masculino;57726;2;sim;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+511;42;feminino;49399;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+512;40;masculino;54019;2;nao;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+513;42;masculino;53422;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+514;41;masculino;40873;2;sim;7;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+515;42;feminino;36987;2;nao;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+516;39;masculino;55350;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+517;43;masculino;43291;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+518;36;masculino;54232;2;nao;7;4;5;4;Fidelidade não vale a pena;cl2
+519;40;masculino;42180;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+520;38;masculino;53611;2;sim;7;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+521;38;feminino;42564;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+522;39;masculino;51761;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+523;39;masculino;42859;2;nao;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+524;37;feminino;55597;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+525;39;masculino;45310;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+526;39;masculino;46989;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+527;44;masculino;50105;2;sim;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+528;39;masculino;48168;2;sim;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+529;43;masculino;51527;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+530;39;masculino;49041;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+531;43;masculino;58238;2;sim;7;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+532;41;masculino;54792;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+533;37;feminino;50423;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+534;42;feminino;52166;2;nao;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+535;41;masculino;45180;2;nao;7;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+536;38;masculino;49516;2;nao;7;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+537;42;feminino;54366;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+538;42;masculino;53042;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+539;40;masculino;56053;2;sim;7;4;5;4;Fidelidade não vale a pena;cl2
+540;42;masculino;54549;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+541;37;masculino;58811;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+542;43;masculino;50520;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+543;40;masculino;56831;2;sim;7;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+544;37;masculino;49768;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+545;39;masculino;50685;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+546;41;feminino;46369;2;nao;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+547;40;feminino;51336;2;nao;7;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+548;38;masculino;47625;2;nao;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+549;44;masculino;48521;2;sim;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+550;40;masculino;52643;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+551;40;masculino;44930;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+552;40;feminino;52933;2;sim;3;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+553;41;masculino;57627;2;sim;3;4;1;4;Fidelidade não vale a pena;cl2
+554;40;feminino;45508;2;sim;3;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+555;40;masculino;55701;2;nao;2;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+556;43;masculino;41721;2;sim;3;4;1;4;Fidelidade não vale a pena;cl2
+557;39;masculino;54274;2;sim;2;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+558;43;masculino;47316;2;sim;3;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+559;37;masculino;47142;2;sim;3;4;5;4;Fidelidade não vale a pena;cl2
+560;41;masculino;61704;2;sim;2;4;5;4;Fidelidade não vale a pena;cl2
+561;37;feminino;47310;2;sim;2;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+562;41;feminino;43957;2;nao;3;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+563;40;masculino;48137;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+564;36;feminino;55665;2;nao;2;4;1;4;Fidelidade não vale a pena;cl2
+565;41;masculino;48227;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+566;39;masculino;54084;2;sim;3;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+567;42;feminino;49972;2;nao;3;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+568;41;masculino;58215;2;sim;3;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+569;38;feminino;41301;2;sim;2;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+570;38;masculino;53388;2;nao;3;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+571;37;masculino;48783;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+572;42;feminino;49763;2;sim;2;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+573;42;masculino;54901;2;nao;2;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+574;40;masculino;35840;2;nao;3;4;5;4;Fidelidade não vale a pena;cl2
+575;38;masculino;49616;2;nao;3;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+576;42;masculino;43984;2;sim;2;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+577;42;feminino;42069;2;sim;2;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+578;40;masculino;48282;2;nao;3;4;5;4;Fidelidade não vale a pena;cl2
+579;40;feminino;42136;2;sim;2;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+580;43;masculino;48184;2;sim;2;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+581;38;masculino;53340;2;nao;2;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+582;43;feminino;55939;2;sim;3;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+583;40;masculino;60174;2;nao;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+584;42;masculino;47722;2;nao;3;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+585;42;masculino;53693;2;sim;3;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+586;38;feminino;56898;2;sim;3;4;5;4;Fidelidade não vale a pena;cl2
+587;38;masculino;51117;2;sim;3;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+588;44;feminino;54921;2;nao;3;4;1;4;Fidelidade não vale a pena;cl2
+589;40;masculino;54111;2;sim;3;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+590;39;masculino;58319;2;sim;2;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+591;42;masculino;51434;2;sim;3;4;5;4;Fidelidade não vale a pena;cl2
+592;44;masculino;54171;2;sim;3;4;1;4;Fidelidade não vale a pena;cl2
+593;37;masculino;48624;2;nao;2;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+594;43;masculino;52656;2;sim;3;4;1;4;Fidelidade não vale a pena;cl2
+595;42;masculino;39065;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+596;38;feminino;49944;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+597;42;masculino;53895;2;sim;2;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+598;41;masculino;44704;2;sim;2;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+599;39;feminino;45605;2;sim;2;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+600;40;masculino;43619;2;sim;3;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+601;45;feminino;44721;2;nao;3;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+602;40;feminino;60854;2;sim;2;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+603;42;masculino;47236;2;nao;2;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+604;42;masculino;48054;2;nao;3;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+605;41;masculino;55190;2;sim;2;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+606;41;masculino;48606;2;sim;2;4;1;4;Fidelidade não vale a pena;cl2
+607;40;masculino;44698;2;sim;2;4;1;4;Fidelidade não vale a pena;cl2
+608;41;masculino;49460;2;sim;2;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+609;40;masculino;41518;2;sim;2;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+610;36;masculino;51646;2;sim;3;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+611;41;masculino;53568;2;nao;3;4;1;4;Fidelidade não vale a pena;cl2
+612;38;masculino;50410;2;sim;3;4;5;4;Fidelidade não vale a pena;cl2
+613;38;masculino;57387;2;sim;2;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+614;40;masculino;52400;2;nao;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+615;40;masculino;50857;2;nao;2;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+616;40;masculino;47072;2;sim;2;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+617;38;masculino;44636;2;sim;2;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+618;39;masculino;45066;2;sim;2;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+619;39;masculino;50027;2;sim;2;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+620;40;masculino;52961;2;sim;3;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+621;37;masculino;48323;2;sim;2;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+622;36;masculino;48694;2;nao;2;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+623;37;masculino;49056;2;sim;3;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+624;41;masculino;40280;2;sim;2;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+625;39;masculino;51379;2;sim;3;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+626;41;masculino;49602;2;sim;2;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+627;38;masculino;44481;2;sim;3;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+628;43;masculino;47094;2;sim;2;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+629;38;masculino;48984;2;sim;2;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+630;42;masculino;52388;2;nao;3;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+631;41;masculino;42322;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+632;42;masculino;52202;2;sim;7;4;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+633;38;masculino;58184;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+634;43;feminino;47816;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+635;41;masculino;44229;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+636;38;masculino;44613;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+637;40;masculino;57398;2;nao;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+638;41;feminino;52972;2;nao;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+639;40;masculino;50396;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+640;42;masculino;47569;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+641;40;feminino;56026;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+642;39;masculino;50480;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+643;38;feminino;46972;2;nao;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+644;41;masculino;46907;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+645;38;masculino;57686;2;nao;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+646;43;masculino;39529;2;sim;7;4;5;4;Atendimento fraco, mas o ambiente é promissor;cl2
+647;41;masculino;56054;2;nao;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+648;43;feminino;50121;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+649;40;masculino;48596;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+650;41;feminino;53951;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+651;41;masculino;50279;2;sim;7;4;1;4;Atendimento fraco, mas o ambiente é promissor;cl2
+652;42;feminino;47197;2;sim;7;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+653;39;masculino;51042;2;nao;7;4;1;4;Garçons mal treinados, precisa melhorar;cl2
+654;37;feminino;51655;2;nao;7;4;5;4;Atendimento ruim, mas o lugar tem potencial;cl2
+655;37;masculino;44811;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+656;39;masculino;47381;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+657;42;feminino;35037;2;sim;7;4;5;4;Garçons mal treinados, precisa melhorar;cl2
+658;43;masculino;44436;2;sim;7;4;1;4;Fidelidade não vale a pena;cl2
+659;37;masculino;45057;2;nao;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+660;39;masculino;52803;2;sim;7;4;1;4;Lugar bonito, mas o atendimento é péssimo;cl2
+661;42;masculino;48323;2;sim;7;4;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+662;38;masculino;47269;2;nao;7;1;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+663;46;masculino;44652;2;sim;7;1;5;4;Fidelidade não vale a pena;cl2
+664;43;masculino;61314;2;sim;7;2;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+665;38;masculino;42144;2;sim;7;2;5;4;Fidelidade não vale a pena;cl2
+666;42;masculino;51747;2;sim;7;2;5;4;Lugar bonito, mas o atendimento é péssimo;cl2
+667;41;masculino;46825;2;sim;7;1;1;4;Fidelidade não vale a pena;cl2
+668;38;masculino;47105;2;sim;7;2;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+669;41;masculino;55026;2;sim;7;1;1;4;Garçons mal treinados, precisa melhorar;cl2
+670;42;masculino;58010;2;sim;7;1;1;4;Atendimento ruim, mas o lugar tem potencial;cl2
+671;43;masculino;47043;2;nao;7;1;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+672;41;feminino;52284;2;sim;7;2;5;5;Garçons mal treinados, precisa melhorar;cl2
+673;41;feminino;46025;2;sim;7;1;1;5;Fidelidade não vale a pena;cl2
+674;40;masculino;47167;2;nao;7;1;5;5;Fidelidade não vale a pena;cl2
+675;40;feminino;49553;2;nao;7;1;5;5;Lugar bonito, mas o atendimento é péssimo;cl2
+676;40;masculino;47246;2;nao;7;1;1;1;Lugar bonito, mas o atendimento é péssimo;cl2
+677;38;masculino;41392;2;nao;7;2;1;5;Garçons mal treinados, precisa melhorar;cl2
+678;40;masculino;48231;2;sim;7;1;1;1;Fidelidade não vale a pena;cl2
+679;42;masculino;63281;2;sim;7;1;1;5;Fidelidade não vale a pena;cl2
+680;39;feminino;46517;2;sim;7;2;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+681;42;feminino;40506;2;nao;7;2;1;1;Garçons mal treinados, precisa melhorar;cl2
+682;39;feminino;42515;2;sim;7;1;1;5;Lugar bonito, mas o atendimento é péssimo;cl2
+683;38;masculino;45316;2;sim;7;1;5;1;Fidelidade não vale a pena;cl2
+684;42;masculino;53164;2;nao;7;2;5;1;Fidelidade não vale a pena;cl2
+685;40;masculino;52237;2;nao;3;2;1;1;Garçons mal treinados, precisa melhorar;cl2
+686;40;feminino;57316;2;sim;2;2;1;1;Garçons mal treinados, precisa melhorar;cl2
+687;40;masculino;48129;2;sim;2;1;5;5;Lugar bonito, mas o atendimento é péssimo;cl2
+688;38;masculino;49878;2;nao;3;2;5;5;Fidelidade não vale a pena;cl2
+689;43;feminino;51085;2;sim;2;2;1;1;Fidelidade não vale a pena;cl2
+690;40;feminino;43038;2;nao;3;1;5;1;Lugar bonito, mas o atendimento é péssimo;cl2
+691;40;feminino;48814;2;sim;2;2;1;5;Lugar bonito, mas o atendimento é péssimo;cl2
+692;42;masculino;50847;2;nao;2;1;1;1;Garçons mal treinados, precisa melhorar;cl2
+693;40;masculino;45657;2;sim;3;2;5;1;Lugar bonito, mas o atendimento é péssimo;cl2
+694;42;masculino;42617;2;sim;3;1;5;5;Atendimento ruim, mas o lugar tem potencial;cl2
+695;38;masculino;52206;2;nao;3;2;1;1;Fidelidade não vale a pena;cl2
+696;39;masculino;58250;2;sim;2;1;5;1;Atendimento ruim, mas o lugar tem potencial;cl2
+697;40;masculino;46568;2;sim;3;1;5;1;Fidelidade não vale a pena;cl2
+698;40;masculino;32954;2;nao;2;1;1;1;Fidelidade não vale a pena;cl2
+699;39;masculino;47866;2;sim;2;1;1;5;Atendimento ruim, mas o lugar tem potencial;cl2
+700;40;masculino;48237;2;sim;2;2;1;1;Fidelidade não vale a pena;cl2
+701;39;feminino;44899;2;sim;2;1;1;1;Garçons mal treinados, precisa melhorar;cl2
+702;40;masculino;45478;2;sim;3;1;1;1;Atendimento fraco, mas o ambiente é promissor;cl2
+703;42;masculino;55678;2;sim;3;1;1;5;Atendimento ruim, mas o lugar tem potencial;cl2
+704;39;feminino;53869;2;sim;2;1;1;1;Atendimento ruim, mas o lugar tem potencial;cl2
+705;40;masculino;40974;2;sim;2;2;1;1;Fidelidade não vale a pena;cl2
+706;40;masculino;52511;2;sim;2;1;1;1;Atendimento fraco, mas o ambiente é promissor;cl2
+707;43;feminino;48634;2;sim;3;1;1;1;Atendimento ruim, mas o lugar tem potencial;cl2
+708;39;masculino;48477;2;nao;2;2;1;1;Atendimento ruim, mas o lugar tem potencial;cl2
+709;39;masculino;41767;2;sim;3;1;1;1;Atendimento fraco, mas o ambiente é promissor;cl2
+710;42;feminino;46074;2;nao;3;1;1;1;Lugar bonito, mas o atendimento é péssimo;cl2
+711;41;masculino;50999;2;nao;2;1;1;1;Garçons mal treinados, precisa melhorar;cl2
+712;38;masculino;57830;2;sim;2;2;5;1;Garçons mal treinados, precisa melhorar;cl2
+713;40;masculino;53643;2;sim;3;2;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+714;42;masculino;40922;2;sim;2;1;5;5;Garçons mal treinados, precisa melhorar;cl2
+715;39;masculino;53962;2;sim;2;1;1;1;Garçons mal treinados, precisa melhorar;cl2
+716;38;feminino;45919;2;sim;2;1;1;1;Fidelidade não vale a pena;cl2
+717;43;masculino;48726;2;sim;2;1;5;5;Garçons mal treinados, precisa melhorar;cl2
+718;39;feminino;49962;2;sim;2;1;1;1;Fidelidade não vale a pena;cl2
+719;37;masculino;47099;2;nao;3;1;1;5;Garçons mal treinados, precisa melhorar;cl2
+720;42;feminino;54664;2;sim;3;1;1;5;Garçons mal treinados, precisa melhorar;cl2
+721;44;feminino;49740;2;sim;3;2;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+722;42;feminino;47981;2;sim;2;2;1;5;Atendimento ruim, mas o lugar tem potencial;cl2
+723;39;masculino;46653;2;nao;2;1;1;5;Lugar bonito, mas o atendimento é péssimo;cl2
+724;42;masculino;53874;2;sim;2;2;1;5;Lugar bonito, mas o atendimento é péssimo;cl2
+725;39;feminino;53764;2;sim;2;2;1;5;Atendimento ruim, mas o lugar tem potencial;cl2
+726;41;masculino;56417;2;sim;2;2;5;1;Fidelidade não vale a pena;cl2
+727;44;feminino;46107;2;sim;2;2;1;1;Atendimento fraco, mas o ambiente é promissor;cl2
+728;42;masculino;63264;2;sim;2;1;5;1;Atendimento ruim, mas o lugar tem potencial;cl2
+729;38;masculino;46191;2;sim;3;2;5;1;Atendimento fraco, mas o ambiente é promissor;cl2
+730;39;feminino;51589;2;sim;2;1;5;5;Atendimento ruim, mas o lugar tem potencial;cl2
+731;40;masculino;55389;2;sim;2;1;1;1;Atendimento fraco, mas o ambiente é promissor;cl2
+732;40;masculino;41134;2;sim;3;2;5;5;Atendimento fraco, mas o ambiente é promissor;cl2
+733;40;masculino;49196;2;nao;3;1;1;5;Fidelidade não vale a pena;cl2
+734;40;masculino;42574;2;sim;3;1;1;1;Fidelidade não vale a pena;cl2
+735;42;feminino;49858;2;nao;2;1;5;1;Atendimento ruim, mas o lugar tem potencial;cl2
+736;40;masculino;49983;2;sim;2;2;1;1;Garçons mal treinados, precisa melhorar;cl2
+737;42;masculino;44794;2;sim;3;1;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+738;37;masculino;54419;2;sim;3;1;5;1;Lugar bonito, mas o atendimento é péssimo;cl2
+739;39;masculino;49765;2;sim;2;1;1;5;Garçons mal treinados, precisa melhorar;cl2
+740;39;masculino;45306;2;nao;2;1;1;1;Atendimento fraco, mas o ambiente é promissor;cl2
+741;40;masculino;53422;2;nao;2;1;5;1;Lugar bonito, mas o atendimento é péssimo;cl2
+742;42;masculino;43646;2;sim;3;1;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+743;39;masculino;55303;2;sim;2;1;1;1;Fidelidade não vale a pena;cl2
+744;41;masculino;55478;2;sim;2;1;5;1;Fidelidade não vale a pena;cl2
+745;40;masculino;51012;2;sim;3;1;1;1;Lugar bonito, mas o atendimento é péssimo;cl2
+746;42;masculino;47747;2;sim;2;1;1;5;Atendimento fraco, mas o ambiente é promissor;cl2
+747;42;masculino;54835;2;sim;3;1;5;1;Lugar bonito, mas o atendimento é péssimo;cl2
+748;39;masculino;52377;2;sim;3;1;5;1;Atendimento ruim, mas o lugar tem potencial;cl2
+749;38;masculino;52788;2;sim;3;1;1;5;Atendimento ruim, mas o lugar tem potencial;cl2
+750;40;feminino;51222;2;nao;2;1;1;1;Atendimento ruim, mas o lugar tem potencial;cl2
+751;23;masculino;24755;1;sim;10;5;4;4;Ótimo para reunir os amigos;cl1
+752;22;masculino;22816;1;nao;10;4;4;4;Lugar bonito e agradável;cl1
+753;21;masculino;23019;1;sim;9;4;5;4;Lugar bonito e agradável;cl1
+754;22;masculino;26594;1;sim;10;5;4;5;Comida boa e barata;cl1
+755;22;feminino;25703;1;nao;10;4;4;4;Ótimo para reunir os amigos;cl1
+756;23;masculino;23692;1;nao;10;5;4;5;Ambiente descontraído;cl1
+757;22;masculino;23824;1;nao;10;5;4;4;Ótimo para reunir os amigos;cl1
+758;23;masculino;24403;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+759;22;masculino;25554;1;nao;10;5;5;5;Garçons simpáticos;cl1
+760;22;masculino;23106;1;nao;10;5;4;5;Ambiente descontraído;cl1
+761;21;masculino;24834;1;nao;9;5;5;4;Ótimo para reunir os amigos;cl1
+762;21;masculino;27680;1;sim;10;4;5;5;Ótimo para reunir os amigos;cl1
+763;23;masculino;21057;1;nao;10;5;5;5;Lugar bonito e agradável;cl1
+764;23;masculino;29731;1;nao;9;4;4;4;Lugar bonito e agradável;cl1
+765;23;feminino;24701;1;nao;10;5;5;5;Ótimo para reunir os amigos;cl1
+766;23;masculino;25114;1;nao;9;5;5;4;Ótimo para reunir os amigos;cl1
+767;21;feminino;22114;1;nao;9;5;4;5;Ótimo para reunir os amigos;cl1
+768;22;masculino;28941;1;nao;9;5;5;5;Ambiente descontraído;cl1
+769;22;masculino;24391;1;nao;9;5;4;5;Lugar bonito e agradável;cl1
+770;22;masculino;27890;1;nao;10;5;4;5;Ambiente descontraído;cl1
+771;23;masculino;25655;1;nao;10;4;4;5;Lugar bonito e agradável;cl1
+772;22;masculino;24560;1;nao;10;4;5;5;Garçons simpáticos;cl1
+773;22;feminino;24174;1;nao;10;5;4;5;Ambiente descontraído;cl1
+774;21;feminino;24803;1;sim;10;5;4;5;Preço da cerveja excelente;cl1
+775;23;masculino;23485;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+776;23;masculino;24650;1;sim;9;4;5;4;Preço da cerveja excelente;cl1
+777;22;masculino;23900;1;nao;10;5;4;5;Comida boa e barata;cl1
+778;23;feminino;23549;1;sim;10;4;5;4;Lugar bonito e agradável;cl1
+779;21;masculino;30004;1;nao;9;5;5;5;Preço da cerveja excelente;cl1
+780;21;masculino;23733;1;nao;9;4;5;5;Ótimo para reunir os amigos;cl1
+781;21;masculino;26092;1;nao;9;4;5;5;Ambiente descontraído;cl1
+782;21;masculino;25818;1;nao;10;4;4;5;Preço da cerveja excelente;cl1
+783;23;masculino;23976;1;sim;9;4;5;4;Ambiente descontraído;cl1
+784;23;masculino;25582;1;nao;9;5;5;5;Comida boa e barata;cl1
+785;23;masculino;26482;1;nao;10;5;5;5;Ótimo para reunir os amigos;cl1
+786;22;masculino;30225;1;nao;10;5;5;4;Lugar bonito e agradável;cl1
+787;23;feminino;25394;1;sim;9;4;5;5;Lugar bonito e agradável;cl1
+788;23;masculino;27326;1;nao;9;5;4;5;Ótimo para reunir os amigos;cl1
+789;22;masculino;25496;1;sim;10;5;4;4;Lugar bonito e agradável;cl1
+790;21;masculino;28483;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+791;21;masculino;28028;1;nao;10;5;5;4;Ótimo para reunir os amigos;cl1
+792;21;masculino;23206;1;nao;10;5;5;4;Lugar bonito e agradável;cl1
+793;20;masculino;28000;1;nao;9;5;4;4;Ótimo para reunir os amigos;cl1
+794;21;masculino;23892;1;nao;10;4;4;4;Garçons simpáticos;cl1
+795;23;masculino;22080;1;nao;9;4;5;5;Garçons simpáticos;cl1
+796;20;feminino;29935;1;nao;9;5;5;4;Preço da cerveja excelente;cl1
+797;21;feminino;22906;1;sim;10;5;5;5;Preço da cerveja excelente;cl1
+798;22;masculino;25610;1;sim;10;5;4;5;Comida boa e barata;cl1
+799;21;feminino;25773;1;nao;10;4;5;5;Garçons simpáticos;cl1
+800;22;masculino;27645;1;nao;10;5;5;5;Garçons simpáticos;cl1
+801;22;feminino;25641;1;nao;9;4;4;5;Ótimo para reunir os amigos;cl1
+802;22;feminino;23334;1;nao;10;5;4;4;Preço da cerveja excelente;cl1
+803;22;masculino;22323;1;nao;9;5;4;5;Ótimo para reunir os amigos;cl1
+804;22;feminino;26756;1;sim;10;5;5;5;Garçons simpáticos;cl1
+805;23;masculino;22865;1;nao;10;5;5;4;Comida boa e barata;cl1
+806;22;masculino;24177;1;sim;9;4;5;4;Garçons simpáticos;cl1
+807;23;feminino;26365;1;sim;10;4;4;4;Preço da cerveja excelente;cl1
+808;20;masculino;24058;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+809;24;masculino;25526;1;nao;10;4;4;4;Ambiente descontraído;cl1
+810;23;masculino;23338;1;nao;9;4;5;4;Ambiente descontraído;cl1
+811;21;masculino;25240;1;sim;9;4;5;5;Lugar bonito e agradável;cl1
+812;22;feminino;23636;1;nao;10;5;5;5;Lugar bonito e agradável;cl1
+813;23;masculino;25624;1;nao;9;5;4;4;Comida boa e barata;cl1
+814;23;feminino;23905;1;sim;10;5;5;4;Garçons simpáticos;cl1
+815;21;masculino;23243;1;nao;9;5;4;4;Preço da cerveja excelente;cl1
+816;21;masculino;24575;1;nao;9;4;5;5;Garçons simpáticos;cl1
+817;22;masculino;27119;1;nao;9;5;4;4;Lugar bonito e agradável;cl1
+818;22;masculino;23825;1;nao;10;4;5;5;Ambiente descontraído;cl1
+819;22;masculino;27265;1;sim;10;4;5;5;Ótimo para reunir os amigos;cl1
+820;24;masculino;27949;1;nao;9;4;5;5;Ambiente descontraído;cl1
+821;23;masculino;27333;1;sim;10;5;4;5;Lugar bonito e agradável;cl1
+822;21;feminino;23142;1;nao;10;4;4;4;Lugar bonito e agradável;cl1
+823;21;masculino;27425;1;nao;10;5;5;4;Ambiente descontraído;cl1
+824;21;masculino;24963;1;nao;10;4;4;5;Ótimo para reunir os amigos;cl1
+825;22;feminino;27581;1;nao;10;4;4;4;Ótimo para reunir os amigos;cl1
+826;23;masculino;25014;1;sim;10;5;5;4;Ambiente descontraído;cl1
+827;21;feminino;26546;1;nao;10;5;5;5;Preço da cerveja excelente;cl1
+828;22;feminino;28237;1;nao;9;4;4;4;Comida boa e barata;cl1
+829;21;masculino;26781;1;nao;9;5;4;5;Ótimo para reunir os amigos;cl1
+830;22;masculino;23691;1;nao;9;4;5;4;Comida boa e barata;cl1
+831;22;masculino;25777;1;nao;9;4;4;4;Lugar bonito e agradável;cl1
+832;21;feminino;27585;1;sim;10;5;5;5;Ótimo para reunir os amigos;cl1
+833;21;masculino;22221;1;nao;10;5;4;4;Ótimo para reunir os amigos;cl1
+834;22;feminino;27921;1;nao;10;4;5;4;Ambiente descontraído;cl1
+835;22;masculino;27268;1;sim;9;4;5;4;Comida boa e barata;cl1
+836;19;masculino;26237;1;nao;9;5;5;4;Ambiente descontraído;cl1
+837;21;masculino;26621;1;sim;10;4;4;5;Preço da cerveja excelente;cl1
+838;24;masculino;23868;1;nao;10;5;4;4;Garçons simpáticos;cl1
+839;23;masculino;24852;1;nao;10;5;5;5;Preço da cerveja excelente;cl1
+840;22;masculino;23929;1;nao;9;5;4;4;Preço da cerveja excelente;cl1
+841;22;feminino;23986;1;nao;10;5;4;4;Preço da cerveja excelente;cl1
+842;24;feminino;23817;1;sim;10;5;5;5;Preço da cerveja excelente;cl1
+843;22;masculino;27561;1;sim;10;4;4;4;Ambiente descontraído;cl1
+844;22;masculino;23413;1;nao;10;4;4;4;Ambiente descontraído;cl1
+845;22;feminino;25263;1;nao;10;4;5;4;Ótimo para reunir os amigos;cl1
+846;21;masculino;26143;1;sim;9;4;4;4;Ambiente descontraído;cl1
+847;22;masculino;22263;1;nao;10;5;4;4;Ótimo para reunir os amigos;cl1
+848;22;masculino;25612;1;nao;10;5;4;5;Garçons simpáticos;cl1
+849;22;masculino;22347;1;sim;10;5;5;5;Ambiente descontraído;cl1
+850;21;masculino;25785;1;nao;9;4;5;4;Lugar bonito e agradável;cl1
+851;21;masculino;27101;1;nao;10;5;4;5;Lugar bonito e agradável;cl1
+852;22;masculino;25744;1;nao;10;4;4;4;Lugar bonito e agradável;cl1
+853;22;feminino;25372;1;sim;10;4;4;4;Comida boa e barata;cl1
+854;23;feminino;24654;1;nao;9;5;5;5;Lugar bonito e agradável;cl1
+855;23;masculino;24341;1;nao;9;4;5;4;Ótimo para reunir os amigos;cl1
+856;23;masculino;23536;1;sim;10;5;5;5;Preço da cerveja excelente;cl1
+857;22;masculino;23510;1;sim;9;4;5;5;Preço da cerveja excelente;cl1
+858;22;masculino;25817;1;nao;9;4;4;5;Comida boa e barata;cl1
+859;22;feminino;24797;1;nao;10;5;5;5;Comida boa e barata;cl1
+860;22;feminino;25922;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+861;22;masculino;25949;1;sim;10;4;5;4;Ambiente descontraído;cl1
+862;20;masculino;27342;1;nao;10;5;5;4;Ambiente descontraído;cl1
+863;22;masculino;24489;1;sim;10;5;4;5;Comida boa e barata;cl1
+864;20;masculino;27088;1;nao;10;5;5;4;Ambiente descontraído;cl1
+865;23;masculino;25009;1;nao;9;5;4;5;Garçons simpáticos;cl1
+866;20;masculino;23259;1;nao;9;4;4;5;Ótimo para reunir os amigos;cl1
+867;22;masculino;22713;1;nao;9;5;5;4;Lugar bonito e agradável;cl1
+868;21;feminino;25915;1;nao;10;5;4;5;Ótimo para reunir os amigos;cl1
+869;22;masculino;24596;1;nao;9;5;4;4;Comida boa e barata;cl1
+870;24;masculino;25608;1;nao;10;4;4;5;Preço da cerveja excelente;cl1
+871;22;masculino;22412;1;nao;9;4;4;5;Garçons simpáticos;cl1
+872;22;masculino;25453;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+873;21;masculino;25298;1;sim;9;4;4;5;Comida boa e barata;cl1
+874;22;masculino;27795;1;nao;10;5;5;5;Lugar bonito e agradável;cl1
+875;23;feminino;24723;1;nao;9;4;5;5;Preço da cerveja excelente;cl1
+876;21;masculino;25065;1;nao;9;4;5;5;Lugar bonito e agradável;cl1
+877;21;feminino;26178;1;nao;10;4;4;5;Ambiente descontraído;cl1
+878;21;feminino;26940;1;sim;10;4;4;5;Preço da cerveja excelente;cl1
+879;21;masculino;26330;1;sim;9;5;5;4;Lugar bonito e agradável;cl1
+880;22;masculino;18157;1;nao;10;4;5;4;Ambiente descontraído;cl1
+881;23;masculino;24058;1;nao;10;4;4;4;Ambiente descontraído;cl1
+882;22;masculino;23053;1;nao;10;5;5;4;Preço da cerveja excelente;cl1
+883;20;masculino;22550;1;nao;10;4;4;4;Ótimo para reunir os amigos;cl1
+884;23;masculino;24123;1;sim;9;5;5;4;Ótimo para reunir os amigos;cl1
+885;23;masculino;23950;1;nao;9;5;5;4;Ambiente descontraído;cl1
+886;22;masculino;27092;1;sim;10;5;4;4;Garçons simpáticos;cl1
+887;23;feminino;27379;1;nao;10;5;5;5;Ótimo para reunir os amigos;cl1
+888;23;masculino;30237;1;sim;10;5;5;4;Ótimo para reunir os amigos;cl1
+889;22;masculino;23457;1;nao;9;5;5;4;Ambiente descontraído;cl1
+890;22;masculino;25070;1;nao;9;4;4;5;Garçons simpáticos;cl1
+891;20;masculino;24859;1;nao;10;5;4;5;Comida boa e barata;cl1
+892;23;feminino;26127;1;nao;9;4;4;5;Ambiente descontraído;cl1
+893;21;masculino;21905;1;nao;9;4;4;5;Lugar bonito e agradável;cl1
+894;20;masculino;22320;1;nao;9;4;4;4;Preço da cerveja excelente;cl1
+895;22;masculino;26132;1;sim;10;5;4;4;Lugar bonito e agradável;cl1
+896;22;masculino;23542;1;nao;10;4;4;5;Garçons simpáticos;cl1
+897;22;masculino;24158;1;nao;9;4;5;4;Lugar bonito e agradável;cl1
+898;25;masculino;24915;1;nao;10;4;5;5;Garçons simpáticos;cl1
+899;22;masculino;22971;1;sim;10;5;4;5;Comida boa e barata;cl1
+900;21;feminino;27021;1;nao;9;5;5;5;Garçons simpáticos;cl1
+901;22;masculino;25508;1;nao;10;5;4;5;Preço da cerveja excelente;cl1
+902;21;masculino;27110;1;nao;10;5;5;4;Lugar bonito e agradável;cl1
+903;21;masculino;21727;1;nao;9;4;5;5;Ambiente descontraído;cl1
+904;21;masculino;22266;1;nao;10;4;4;5;Lugar bonito e agradável;cl1
+905;21;masculino;24768;1;nao;9;5;5;4;Ótimo para reunir os amigos;cl1
+906;24;feminino;22081;1;sim;9;4;5;4;Ótimo para reunir os amigos;cl1
+907;22;masculino;23575;1;sim;9;4;5;5;Lugar bonito e agradável;cl1
+908;22;masculino;27516;1;sim;9;5;5;5;Ótimo para reunir os amigos;cl1
+909;22;masculino;25422;1;sim;9;5;4;5;Garçons simpáticos;cl1
+910;21;masculino;24652;1;nao;10;5;4;4;Comida boa e barata;cl1
+911;22;feminino;23911;1;sim;10;4;5;4;Lugar bonito e agradável;cl1
+912;23;masculino;27862;1;sim;9;5;4;4;Lugar bonito e agradável;cl1
+913;20;masculino;25777;1;sim;10;4;5;5;Preço da cerveja excelente;cl1
+914;20;feminino;25285;1;nao;9;4;4;4;Preço da cerveja excelente;cl1
+915;22;masculino;28019;1;nao;10;4;4;5;Ótimo para reunir os amigos;cl1
+916;22;feminino;27520;1;nao;10;5;5;4;Comida boa e barata;cl1
+917;23;masculino;25883;1;nao;10;5;5;4;Comida boa e barata;cl1
+918;22;masculino;23765;1;nao;10;4;5;5;Ótimo para reunir os amigos;cl1
+919;22;masculino;25063;1;sim;10;5;4;4;Ambiente descontraído;cl1
+920;23;masculino;24529;1;nao;10;5;5;5;Comida boa e barata;cl1
+921;20;masculino;27282;1;sim;9;4;5;4;Ambiente descontraído;cl1
+922;21;masculino;31178;1;nao;10;5;5;5;Comida boa e barata;cl1
+923;22;masculino;26468;1;nao;9;5;5;4;Ambiente descontraído;cl1
+924;21;feminino;21135;1;nao;10;4;4;5;Preço da cerveja excelente;cl1
+925;24;masculino;25035;1;nao;9;4;4;5;Preço da cerveja excelente;cl1
+926;22;masculino;23087;1;nao;10;5;4;4;Lugar bonito e agradável;cl1
+927;22;feminino;25897;1;nao;9;4;5;4;Comida boa e barata;cl1
+928;22;masculino;19856;1;nao;9;5;5;5;Ótimo para reunir os amigos;cl1
+929;22;feminino;26678;1;nao;9;5;4;4;Ótimo para reunir os amigos;cl1
+930;21;masculino;27003;1;nao;9;4;4;4;Preço da cerveja excelente;cl1
+931;22;feminino;28976;1;nao;9;4;4;5;Lugar bonito e agradável;cl1
+932;21;masculino;24356;1;nao;10;5;5;5;Ótimo para reunir os amigos;cl1
+933;22;masculino;20929;1;sim;10;4;4;4;Garçons simpáticos;cl1
+934;22;masculino;27467;1;nao;10;5;5;4;Lugar bonito e agradável;cl1
+935;24;feminino;28953;1;nao;10;4;5;4;Lugar bonito e agradável;cl1
+936;22;feminino;27377;1;nao;9;4;4;4;Lugar bonito e agradável;cl1
+937;22;masculino;25872;1;nao;10;5;4;5;Ótimo para reunir os amigos;cl1
+938;23;feminino;22880;1;nao;10;5;5;4;Ambiente descontraído;cl1
+939;24;masculino;25929;1;nao;10;4;4;5;Garçons simpáticos;cl1
+940;22;feminino;24166;1;sim;10;4;4;4;Ambiente descontraído;cl1
+941;22;feminino;23122;1;nao;9;5;5;4;Preço da cerveja excelente;cl1
+942;20;masculino;25744;1;nao;10;5;5;5;Garçons simpáticos;cl1
+943;22;masculino;25815;1;nao;10;4;5;4;Lugar bonito e agradável;cl1
+944;20;masculino;24442;1;nao;10;4;5;4;Garçons simpáticos;cl1
+945;22;masculino;22832;1;sim;10;5;4;4;Comida boa e barata;cl1
+946;21;masculino;28915;1;sim;10;5;4;5;Garçons simpáticos;cl1
+947;20;masculino;23349;1;nao;10;5;5;5;Comida boa e barata;cl1
+948;22;masculino;28396;1;nao;10;4;4;4;Ambiente descontraído;cl1
+949;21;masculino;22324;1;nao;10;4;4;5;Preço da cerveja excelente;cl1
+950;21;masculino;25828;1;nao;9;4;4;5;Ótimo para reunir os amigos;cl1
+951;23;masculino;24719;1;sim;9;5;4;5;Garçons simpáticos;cl1
+952;22;masculino;25946;1;sim;10;5;5;4;Ótimo para reunir os amigos;cl1
+953;21;masculino;21725;1;nao;10;4;5;4;Ambiente descontraído;cl1
+954;22;feminino;23669;1;nao;10;4;5;5;Preço da cerveja excelente;cl1
+955;22;masculino;21943;1;nao;7;5;5;4;Comida boa e barata;cl1
+956;22;masculino;21489;1;nao;7;4;4;4;Ótimo para reunir os amigos;cl1
+957;19;feminino;23625;1;nao;7;5;4;4;Ótimo para reunir os amigos;cl1
+958;24;masculino;26883;1;nao;7;4;5;5;Comida boa e barata;cl1
+959;22;masculino;26098;1;nao;7;5;5;5;Garçons simpáticos;cl1
+960;23;masculino;26586;1;sim;7;4;5;5;Lugar bonito e agradável;cl1
+961;22;masculino;26048;1;nao;7;4;5;4;Garçons simpáticos;cl1
+962;22;masculino;23055;1;nao;7;4;4;4;Garçons simpáticos;cl1
+963;21;masculino;24543;1;nao;7;4;4;4;Garçons simpáticos;cl1
+964;23;masculino;27846;1;sim;7;4;4;4;Garçons simpáticos;cl1
+965;23;masculino;24729;1;nao;7;4;5;4;Ambiente descontraído;cl1
+966;21;masculino;25198;1;sim;7;5;4;5;Lugar bonito e agradável;cl1
+967;22;masculino;24719;1;nao;6;5;5;5;Lugar bonito e agradável;cl1
+968;21;masculino;22393;1;sim;6;5;5;4;Preço da cerveja excelente;cl1
+969;23;masculino;26598;1;nao;6;5;4;5;Ambiente descontraído;cl1
+970;22;masculino;27844;1;nao;6;5;5;4;Preço da cerveja excelente;cl1
+971;24;masculino;24146;1;nao;6;5;4;5;Ambiente descontraído;cl1
+972;21;masculino;26574;1;sim;6;5;4;4;Comida boa e barata;cl1
+973;23;feminino;23525;1;sim;6;4;4;5;Garçons simpáticos;cl1
+974;22;masculino;23163;1;nao;6;5;5;4;Lugar bonito e agradável;cl1
+975;21;feminino;25714;1;nao;6;4;4;5;Ambiente descontraído;cl1
+976;22;masculino;24169;1;sim;6;5;4;4;Ótimo para reunir os amigos;cl1
+977;23;masculino;24316;1;nao;6;5;4;5;Preço da cerveja excelente;cl1
+978;22;masculino;23221;1;nao;6;5;4;5;Lugar bonito e agradável;cl1
+979;23;feminino;23574;1;nao;6;5;5;5;Ótimo para reunir os amigos;cl1
+980;22;masculino;21848;1;nao;6;5;5;4;Lugar bonito e agradável;cl1
+981;22;masculino;22783;1;sim;6;4;5;5;Lugar bonito e agradável;cl1
+982;22;feminino;23993;1;nao;6;5;4;5;Garçons simpáticos;cl1
+983;22;masculino;26954;1;nao;6;4;5;4;Garçons simpáticos;cl1
+984;21;masculino;24590;1;nao;6;5;4;4;Preço da cerveja excelente;cl1
+985;21;masculino;26486;1;nao;6;5;4;4;Ótimo para reunir os amigos;cl1
+986;23;masculino;22101;1;nao;6;5;4;5;Ótimo para reunir os amigos;cl1
+987;22;masculino;26931;1;nao;6;5;5;5;Preço da cerveja excelente;cl1
+988;22;masculino;26376;1;nao;6;4;4;5;Comida boa e barata;cl1
+989;23;masculino;23601;1;nao;6;4;5;5;Comida boa e barata;cl1
+990;21;masculino;21718;1;nao;6;4;5;5;Ótimo para reunir os amigos;cl1
+991;21;masculino;27124;1;sim;6;4;5;5;Ótimo para reunir os amigos;cl1
+992;22;masculino;23347;1;nao;6;4;5;4;Comida boa e barata;cl1
+993;24;masculino;25612;1;nao;6;5;5;5;Ambiente descontraído;cl1
+994;22;masculino;26507;1;nao;6;5;4;5;Ambiente descontraído;cl1
+995;22;masculino;25928;1;sim;6;4;5;4;Lugar bonito e agradável;cl1
+996;21;masculino;23836;1;nao;6;4;5;4;Ambiente descontraído;cl1
+997;21;masculino;24212;1;nao;6;4;5;4;Preço da cerveja excelente;cl1
+998;22;masculino;29069;1;nao;6;4;4;4;Ambiente descontraído;cl1
+999;22;masculino;24822;1;sim;6;4;5;5;Garçons simpáticos;cl1
+1000;22;feminino;23527;1;nao;6;5;4;4;Garçons simpáticos;cl1
