@@ -1,4 +1,4 @@
-##AULAS MARKETING UNESP
+AULAS MARKETING UNESP
 
 Esse repositório contém todos os códigos, bancos e informações sobre as aulas da disciplina de Marketing (EP2205P23A) oferecida ao curso de Engenharia de Produção no campus da Unesp Bauru. 
 Dividi as aulas com o professor Dr. Hermes Moretti, onde data duas aulas teóricas sobre os diversos aspectos de Marketing e eu complementava as outras duas aulas com aulas de análise de dados em R. 
