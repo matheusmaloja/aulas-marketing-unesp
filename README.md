@@ -5,7 +5,7 @@ Dividi as aulas com o professor Dr. Hermes Moretti, onde data duas aulas teóric
 
 Nas pastas é possível encontrar:
 - Diferenças de Médias para dois e mais grupos (t-test e anova);
-- Regressão Linear Múltipla aplicada
+- Regressão Linear Múltipla aplicada (Precificação)
 - Análise de dados Espaciais Aplicados (+ utilização de consulta a bancos do IBGE)
 - Análise Fatorial (Escala ServQual)
 - Análise de Cluster (Segmentação)
